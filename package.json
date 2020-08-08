@@ -1,0 +1,12 @@
+{
+    "name": "pulumi-aws-eks",
+    "devDependencies": {
+        "typescript": "^3.0.0",
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@pulumi/pulumi": "^2.0.0",
+        "@pulumi/awsx": "^0.21.0",
+        "@pulumi/eks": "^0.19.0"
+    }
+}
